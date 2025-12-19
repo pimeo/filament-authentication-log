@@ -7,13 +7,13 @@ return [
     'navigation.authentication-log.plural-label' => "Journaux d'authentification",
 
     'table.heading' => "Journaux d'authentification",
-    'table.empty' => "Aucun information d'authentification trouvée",
+    'table.empty' => "Aucune information d'authentification trouvée",
 
-    'column.authenticatable' => 'Utilisateur authentifié',
+    'column.authenticatable' => 'Modèle authentifié',
     'column.ip_address' => 'Adresse IP',
     'column.user_agent' => 'Agent utilisateur',
     'column.login_at' => 'Connecté le',
     'column.login_successful' => 'Connexion réussie',
     'column.logout_at' => 'Déconnecté à',
-    'column.cleared_by_user' => "Effacé par l'utilisateur",
+    'column.cleared_by_user' => "Nettoyé par l'utilisateur",
 ];
